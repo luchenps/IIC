@@ -1,8 +1,8 @@
 # IIC reimplementation for semisupervised clustering
 
-This repository contains a reimplementation of [https://github.com/xu-ji/IIC]
-(IIC code). For more information visit the original repository or read the
-[https://arxiv.org/abs/1807.06653](IIC paper).
+This repository contains a reimplementation of [IIC code]
+(https://github.com/xu-ji/IIC). For more information visit the original
+repository or read the [IIC paper](https://arxiv.org/abs/1807.06653).
 
 This reimplementation is an attempt to make a more portable code (between
 different datasets and networks). It comes with a example code for MNIST (must
